@@ -1,2 +1,3 @@
-# test_app_2
-test_app_2
+# Demostración creación de aplicación con Python:
+
+Acceso a la aplicación: 
